@@ -1,0 +1,31 @@
+#btn-delete{
+    padding:12px;
+    border-radius: 15px;
+    border:solid #0652f7;
+    font-size: 15px;
+    margin-left: 20px;
+    background-color: red;
+    color:white;
+  }
+  
+  .single-todo{
+    display: flex;
+    background-color: rgb(24, 42, 43);
+    width:250px;
+    border:solid #0652f7;
+    padding:10px 15px;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  
+  .all-todo{
+    list-style: none;
+    margin:0;
+    padding:0;
+  }
+  
+  .todo-text{
+    flex: 1;
+    text-align: left;
+  }
